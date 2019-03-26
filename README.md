@@ -24,4 +24,5 @@
 > - db.properties : DataSource 적는 곳 (dbinfo)
 > - sql-map-config.xml : Mybatis 메인 환경 설정 파일/ sql mapper와 db.properties 등등을 연결해준다.
 > - SqlSessionFactoryBean.java : Mybatis를 이용하여 DAO를 구현하려면 SqlSession 객체가 필요한데, 그 sqlSession객체를 만들어 주는 곳
-> - BoardServiceClient.java: 테스트 
+> - BoardServiceClient.java: 테스트 클라이언트  
+
