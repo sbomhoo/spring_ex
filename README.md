@@ -17,8 +17,8 @@
 
 ## Spring_ex05.zip
 - mybatis 예제 (spring과 연동x) 
-
-- ![이미지1](./이미지1.png) 
+  
+> ![이미지1](./이미지1.png) 
 > - pom.xml : 관련 라이브러리 다운
 > - board-mapping.xml : SQL Mapper로서 관련 sql문을 입력하는 곳
 > - db.properties : DataSource 적는 곳 (dbinfo)
