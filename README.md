@@ -28,4 +28,4 @@
 
 ## Spring_ex06.zip
  - Spring Board에 mybatis 연동
- - 특이점 : 스프링 컨테이너에서 sqlSession 만들어주기 때문에 sqlSessionFactory 클래스를 따로 만들 필요 없이 applicationContext.xml에 <bean>등록만 하면 된다.
+ - 특이점 : 스프링 컨테이너에서 sqlSession 만들어주기 때문에 sqlSessionFactory 클래스를 따로 만들 필요 없이 applicationContext.xml에 bean등록만 하면 된다.
