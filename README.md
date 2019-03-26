@@ -15,3 +15,7 @@
 - 검색기능 추가, 파일업로드 , 예외처리 페이지 만들기 , 다국어 처리(국제화)
 - 국제화 전 boardListjsp파일.txt
 
+## Spring_ex05.zip
+![이미지1](./img/이미지1.png)  
+- mybatis 예제 (spring과 연동x)
+
