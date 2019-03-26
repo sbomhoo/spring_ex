@@ -26,3 +26,6 @@
 > - SqlSessionFactoryBean.java : Mybatis를 이용하여 DAO를 구현하려면 SqlSession 객체가 필요한데, 그 sqlSession객체를 만들어 주는 곳
 > - BoardServiceClient.java: 테스트 클라이언트  
 
+## Spring_ex06.zip
+ - Spring Board에 mybatis 연동
+ - 특이점 : 스프링 컨테이너에서 sqlSession 만들어주기 때문에 sqlSessionFactory 클래스를 따로 만들 필요 없이 applicationContext.xml에 bean등록만 하면 된다.
