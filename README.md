@@ -31,4 +31,5 @@
  - 특이점 : 스프링 컨테이너에서 sqlSession 만들어주기 때문에 sqlSessionFactory 클래스를 따로 만들 필요 없이 applicationContext.xml에 bean등록만 하면 된다.
  - 게시글 검색이 안되서 해맸는데, BoardList.jsp 인코딩 UTF-8로 안되있어서 vo를 못 받아오는 문제였음 
  
- 
+## Spring_Mybatis_Mysql.zip 
+ - spring + mybatis + mysql 연동 예제
